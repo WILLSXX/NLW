@@ -125,7 +125,7 @@ main section:nth-child(3) {
 }
 
 @keyframes fromTop {
-    form {
+    from {
         opacity: 0;
         transform: translateY(-30px);
     }
